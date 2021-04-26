@@ -1,3 +1,8 @@
+# Why?
+_Add a reason for why these changes are needed, ie what is the motivation.  Some bullet points, or a link to a spec or trello card  eg_
+-  _DELETE ME_  Improve error handling, to make it easier to resolve issues 
+
+
 # What is it?
 _Add a summary of the features or bugfixes this PR introduces eg_
 - [x] _DELETE ME_ First feature with some description of how it works
@@ -12,7 +17,7 @@ _Add a summary of the features or bugfixes this PR introduces eg_
 ## Checklist
 
 _Put an `x` in the boxes that apply. You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask someone. This is simply a reminder of what we are going to look for before merging your code._
-
+- [ ] My PR adequately explains these changes so that others can understand them
 - [ ] I have performed a self-review of my own code
 - [ ] Any dependent changes have been merged and published in other modules (or PR's linked in this PR)
 - [ ] My code follows the style used in this project
